@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://littlewonderland.github.io</id>
     <title>Littlewonderland 小奇迹国度</title>
-    <updated>2022-01-14T14:14:03.144Z</updated>
+    <updated>2022-01-15T12:21:22.299Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://littlewonderland.github.io"/>
     <link rel="self" href="https://littlewonderland.github.io/atom.xml"/>
@@ -10,6 +10,13 @@
     <logo>https://littlewonderland.github.io/images/avatar.png</logo>
     <icon>https://littlewonderland.github.io/favicon.ico</icon>
     <rights>All rights reserved 2022, Littlewonderland 小奇迹国度</rights>
+    <entry>
+        <title type="html"><![CDATA[【碎碎念】关于我的毫无长进]]></title>
+        <id>https://littlewonderland.github.io/post/sui-sui-nian-guan-yu-wo-de-hao-wu-chang-jin/</id>
+        <link href="https://littlewonderland.github.io/post/sui-sui-nian-guan-yu-wo-de-hao-wu-chang-jin/">
+        </link>
+        <updated>2022-01-15T11:35:41.000Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【碎碎念】关于我一团糟的生活，和困兽一样与它对抗的我]]></title>
         <id>https://littlewonderland.github.io/post/sui-sui-nian-guan-yu-wo-yi-tuan-zao-de-sheng-huo-he-kun-shou-yi-yang-yu-ta-dui-kang-de-wo/</id>
